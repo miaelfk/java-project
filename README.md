@@ -28,3 +28,13 @@ GeekShop é um sistema de e-commerce voltado para produtos geek. Este projeto fo
   - Visualizar estoque atual.
 - Exceções personalizadas:
   - Classe `EstoqueInsuficienteException` para tratar remoção de quantidade maior que o disponível.
+
+  ## **Tecnologias Utilizadas**
+- **Java (JDK 17)**: Linguagem principal do projeto.
+- **Eclipse/STS**: IDE utilizada para desenvolvimento.
+- **Git/GitHub**: Controle de versão e hospedagem do código.
+
+---
+
+## **Autor**
+Desenvolvido por Sâmia El Fakih França :)
